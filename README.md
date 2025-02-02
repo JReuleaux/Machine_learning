@@ -1,4 +1,4 @@
 # Machine_learning
-Learning project using linear regression for machine learning
+Learning machine learning using sklearn (scikit-learn)
 
-Start date 27-1-25
+prediciting wethere the given data is a rock('R') or a mine('M')
